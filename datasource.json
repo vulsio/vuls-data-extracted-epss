@@ -1,0 +1,14 @@
+{
+	"id": "epss",
+	"name": "EPSS: Exploit Prediction Scoring System",
+	"raw": [
+		{
+			"url": "https://github.com/vulsio/vuls-data-raw-epss",
+			"commit": "0d36901f546a41b15987aff3c43c4cf1a2e27579",
+			"date": "2024-08-27T00:20:00Z"
+		}
+	],
+	"extracted": {
+		"url": "https://github.com/vulsio/vuls-data-extracted-epss"
+	}
+}
