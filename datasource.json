@@ -4,8 +4,8 @@
 	"raw": [
 		{
 			"url": "https://github.com/vulsio/vuls-data-raw-epss",
-			"commit": "e42c1ac524447df3fa5f09caebc442904bca9b9b",
-			"date": "2024-12-01T00:26:08Z"
+			"commit": "40389b7a6082a3e31e1cc7e53790f57fd81a6f28",
+			"date": "2024-12-03T00:22:04Z"
 		}
 	],
 	"extracted": {
